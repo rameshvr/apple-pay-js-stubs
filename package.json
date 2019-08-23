@@ -19,7 +19,7 @@
     "karma-mocha": "^1.1.1",
     "karma-sinon": "^1.0.5",
     "mocha": "^3.0.0",
-    "sinon": "^1.17.5"
+    "sinon": "^7.4.1"
   },
   "repository": {
     "type": "git",
