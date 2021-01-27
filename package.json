@@ -11,7 +11,7 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-as-promised": "^7.1.1",
-    "karma": "^4.4.1",
+    "karma": "^6.0.3",
     "karma-chai": "^0.1.0",
     "karma-chai-as-promised": "^0.1.2",
     "karma-chrome-launcher": "^1.0.1",
